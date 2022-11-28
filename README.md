@@ -1,7 +1,7 @@
 # Weather-Journal App Project
 
 ## Overview
-this project shows current temprature in the enterd zipcode city and .... get current temprature from open weather site  
+this project shows current temprature in the enterd zipcode city and .... get current temprature from <a href="https://openweathermap.org/" target="_blang">Open Weather Map</a>
 This project requires to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
 
 ## Instructions
